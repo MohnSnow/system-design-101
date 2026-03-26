@@ -2,7 +2,7 @@
 
 > 想让系统扛住百万用户？这8招必须会
 
-![扩展性策略](./8-must-know-scalability-strategies.png)
+![扩展性策略](8-must-know-scalability-strategies.png)
 
 Amazon、Netflix、Uber有什么共同点？它们都极其擅长按需扩展系统 👇
 

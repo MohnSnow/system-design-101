@@ -2,7 +2,7 @@
 
 > OOP就像数字乐高，学会了就能搭出任何东西
 
-![OOP概念](./8-key-oop-concepts-every-developer-should-know.png)
+![OOP概念](8-key-oop-concepts-every-developer-should-know.png)
 
 面向对象编程从1960年代就有了，90年代随着Java和C++真正火起来。为什么重要？👇
 

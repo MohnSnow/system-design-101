@@ -2,7 +2,7 @@
 
 > 业务越复杂，越需要DDD来理清思路
 
-![DDD核心概念](./8-key-concepts-in-ddd.png)
+![DDD核心概念](8-key-concepts-in-ddd.png)
 
 DDD（领域驱动设计）是处理复杂业务系统的利器。8个核心概念帮你入门 👇
 
