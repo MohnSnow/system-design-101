@@ -2,7 +2,7 @@
 
 > 学Linux不能只会敲命令，要理解底层架构
 
-![Linux组件](./5-important-components-of-linux.png)
+![Linux组件](5-important-components-of-linux.png)
 
 Linux是程序员的必备技能，但不能只停留在命令行层面。来看看Linux的5大核心组件 👇
 

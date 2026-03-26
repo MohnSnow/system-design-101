@@ -2,7 +2,7 @@
 
 > 大规模系统的经典问题，你能答出几个？
 
-![系统设计问题](./8-common-system-design-problems-and-solutions.png)
+![系统设计问题](8-common-system-design-problems-and-solutions.png)
 
 大规模生产系统中最常见的8个问题，以及对应的解决方案 👇
 

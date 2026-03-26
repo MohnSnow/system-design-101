@@ -2,7 +2,7 @@
 
 > 架构选错，后面全是坑。先搞懂这6种再动手
 
-![软件架构模式](./6-software-architectural-patterns-you-must-know.png)
+![软件架构模式](6-software-architectural-patterns-you-must-know.png)
 
 选对架构模式是项目成功的关键。这6种最常用的架构模式你必须掌握 👇
 

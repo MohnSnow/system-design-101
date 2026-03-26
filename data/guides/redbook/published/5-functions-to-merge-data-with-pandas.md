@@ -2,7 +2,7 @@
 
 > 数据分析师必备，5个函数搞定所有数据合并场景
 
-![Pandas数据合并](./5-functions-to-merge-data-with-pandas.png)
+![Pandas数据合并](5-functions-to-merge-data-with-pandas.jpg)
 
 还在用Excel手动合并数据？Pandas这5个函数帮你秒搞定 👇
 

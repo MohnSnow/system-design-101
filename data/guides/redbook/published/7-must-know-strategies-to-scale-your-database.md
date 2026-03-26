@@ -2,7 +2,7 @@
 
 > 数据库慢了怎么办？这7招帮你搞定
 
-![数据库扩展策略](./7-must-know-strategies-to-scale-your-database.png)
+![数据库扩展策略](7-must-know-strategies-to-scale-your-database.png)
 
 数据库性能瓶颈是后端开发最常遇到的问题。这7个策略从简单到复杂，按需选用 👇
 

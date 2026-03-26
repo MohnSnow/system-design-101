@@ -2,7 +2,7 @@
 
 > 一张图带你看懂云计算是怎么一步步走到今天的
 
-![云计算进化时间线](./2-decades-of-cloud-evolution.png)
+![云计算进化时间线](2-decades-of-cloud-evolution.png)
 
 IaaS、PaaS、云原生……这些词天天听，但云计算到底是怎么演变过来的？
 

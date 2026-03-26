@@ -2,7 +2,7 @@
 
 > 用户注意力只有90秒，Netflix靠缓存抢时间
 
-![Netflix缓存策略](./4-ways-netflix-uses-caching-to-hold-user-attention.png)
+![Netflix缓存策略](4-ways-netflix-uses-caching-to-hold-user-attention.png)
 
 Netflix的目标是让你一直看下去，但用户的注意力只有90秒。他们用EVCache（分布式键值存储）来降低延迟，留住用户 👇
 
