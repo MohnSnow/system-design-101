@@ -2,7 +2,7 @@
 
 > 各个领域都有AI神器，总有一款适合你
 
-![AI应用合集](./30-useful-ai-apps-that-can-help-you-in-2025.png)
+![AI应用合集](30-useful-ai-apps-that-can-help-you-in-2025.png)
 
 AI应用已经渗透到方方面面，按场景分类给你整理好了 👇
 

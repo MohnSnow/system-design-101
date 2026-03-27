@@ -2,7 +2,7 @@
 
 > 收藏这份书单，少走三年弯路
 
-![程序员必读书单](./10-books-for-software-developers.png)
+![程序员必读书单](10-books-for-software-developers.png)
 
 想成为更好的开发者？这10本书是业界公认的经典，按方向分类给你整理好了 👇
 

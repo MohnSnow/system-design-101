@@ -2,7 +2,7 @@
 
 > 数据结构不只是面试题，它们就藏在你每天用的软件里
 
-![数据结构](./10-key-data-structures-we-use-every-day.png)
+![数据结构](10-key-data-structures-we-use-every-day.png)
 
 数据结构听起来很学术？其实你每天都在用它们，只是没意识到 👇
 

@@ -2,7 +2,7 @@
 
 > 你的Web应用上线前，这10个组件缺一不可
 
-![Web应用架构](./10-essential-components-of-a-production-web-application.png)
+![Web应用架构](10-essential-components-of-a-production-web-application.png)
 
 一个真正能上线的Web应用，远不止写几个页面那么简单。来看看完整的生产架构需要哪些组件 👇
 

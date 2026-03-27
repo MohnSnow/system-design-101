@@ -2,7 +2,7 @@
 
 > 支付系统容不得半点马虎，来看Shopify怎么做的
 
-![Shopify支付系统](./10-principles-for-building-resilient-payment-systems-by-shopify.png)
+![Shopify支付系统](10-principles-for-building-resilient-payment-systems-by-shopify.png)
 
 支付系统是最不能出错的系统之一。Shopify 总结了10条构建高可用支付系统的宝贵经验 👇
 

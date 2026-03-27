@@ -2,7 +2,7 @@
 
 > 想深入理解技术本质？读这些论文就对了
 
-![改变世界的论文](./25-papers-that-completely-transformed-the-computer-world.png)
+![改变世界的论文](25-papers-that-completely-transformed-the-computer-world.png)
 
 这25篇论文塑造了现代计算机科学的面貌 👇
 

@@ -2,7 +2,7 @@
 
 > 开发微服务时必须遵循的关键实践
 
-![微服务开发实践](./9-best-practices-for-developing-microservices.png)
+![微服务开发实践](9-best-practices-for-developing-microservices.png)
 
 开发微服务时，这9条法则帮你保持代码和架构的健康 👇
 

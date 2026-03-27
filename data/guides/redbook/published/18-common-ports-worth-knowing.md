@@ -2,7 +2,7 @@
 
 > 面试常考，工作常用，一图搞定
 
-![常用端口号](./18-common-ports-worth-knowing.png)
+![常用端口号](18-common-ports-worth-knowing.png)
 
 网络端口号记不住？这18个最常用的帮你整理好了 👇
 

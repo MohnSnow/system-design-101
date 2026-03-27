@@ -2,7 +2,7 @@
 
 > 微服务不是拆就完了，不遵循原则会更痛苦
 
-![微服务最佳实践](./9-best-practices-for-building-microservices.png)
+![微服务最佳实践](9-best-practices-for-building-microservices.png)
 
 微服务架构很强大，但不遵循原则会变成灾难。这9条实践帮你少踩坑 👇
 

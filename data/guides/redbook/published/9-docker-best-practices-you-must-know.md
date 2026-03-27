@@ -2,7 +2,7 @@
 
 > 用Docker不难，用好Docker才是本事
 
-![Docker最佳实践](./9-docker-best-practices-you-must-know.png)
+![Docker最佳实践](9-docker-best-practices-you-must-know.png)
 
 Docker用起来简单，但要用好需要遵循这9条实践 👇
 

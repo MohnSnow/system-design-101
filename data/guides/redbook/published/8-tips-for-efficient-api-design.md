@@ -2,7 +2,7 @@
 
 > 好的API设计让前后端协作效率翻倍
 
-![API设计技巧](./8-tips-for-efficient-api-design.png)
+![API设计技巧](8-tips-for-efficient-api-design.png)
 
 API设计得好不好，直接影响团队协作效率。这8个技巧帮你设计出优雅的RESTful API 👇
 

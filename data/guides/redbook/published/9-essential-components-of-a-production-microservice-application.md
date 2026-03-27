@@ -2,7 +2,7 @@
 
 > 微服务不只是拆服务，还需要这些基础设施支撑
 
-![微服务核心组件](./9-essential-components-of-a-production-microservice-application.png)
+![微服务核心组件](9-essential-components-of-a-production-microservice-application.png)
 
 一个真正能上线的微服务系统，需要这9个核心组件 👇
 

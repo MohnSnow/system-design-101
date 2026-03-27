@@ -2,7 +2,7 @@
 
 > 这些项目塑造了我们今天的开发方式
 
-![改变世界的开源项目](./15-open-source-projects-that-changed-the-world.png)
+![改变世界的开源项目](15-open-source-projects-that-changed-the-world.png)
 
 开源改变了软件世界。这15个项目影响力最大，按领域分类 👇
 

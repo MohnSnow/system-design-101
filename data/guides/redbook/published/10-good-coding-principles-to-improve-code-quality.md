@@ -2,7 +2,7 @@
 
 > 好代码不是天生的，是靠这些原则练出来的
 
-![编码原则](./10-good-coding-principles-to-improve-code-quality.png)
+![编码原则](10-good-coding-principles-to-improve-code-quality.png)
 
 代码写得好不好，不只看能不能跑，更看能不能维护。这10条原则帮你写出高质量代码 👇
 

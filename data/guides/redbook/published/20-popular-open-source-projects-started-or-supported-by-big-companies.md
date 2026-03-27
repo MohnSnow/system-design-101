@@ -2,7 +2,7 @@
 
 > Google、Meta、微软、Netflix……大厂的开源贡献远超你想象
 
-![大厂开源项目](./20-popular-open-source-projects-started-or-supported-by-big-companies.png)
+![大厂开源项目](20-popular-open-source-projects-started-or-supported-by-big-companies.png)
 
 你每天用的工具，很多都是大厂开源的 👇
 

@@ -2,7 +2,7 @@
 
 > 300万月活用户，数据库增长100倍，Figma是怎么扛住的？
 
-![Figma Postgres扩展](./100x-postgres-scaling-at-figma.png)
+![Figma Postgres扩展](100x-postgres-scaling-at-figma.png)
 
 Figma 用户量从2018年至今增长了200%，达到300万月活。Postgres数据库增长了100倍，他们是怎么一步步扛过来的？👇
 

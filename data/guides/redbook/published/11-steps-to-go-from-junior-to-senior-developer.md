@@ -2,7 +2,7 @@
 
 > 不是写代码越多就越高级，方向比努力更重要
 
-![初级到高级开发者](./11-steps-to-go-from-junior-to-senior-developer.png)
+![初级到高级开发者](11-steps-to-go-from-junior-to-senior-developer.png)
 
 想从初级开发者晋升到高级？这11个方向帮你规划成长路径 👇
 

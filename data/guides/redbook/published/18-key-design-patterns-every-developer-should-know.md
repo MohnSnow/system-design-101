@@ -2,7 +2,7 @@
 
 > 设计模式是解决常见问题的蓝图，用好了代码质量飞升
 
-![设计模式](./18-key-design-patterns-every-developer-should-know.png)
+![设计模式](18-key-design-patterns-every-developer-should-know.png)
 
 设计模式不用死记硬背，理解每个模式的"角色"就好 👇
 

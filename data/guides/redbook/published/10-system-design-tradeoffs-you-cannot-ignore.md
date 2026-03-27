@@ -2,7 +2,7 @@
 
 > 系统设计的本质就是做权衡，没有银弹
 
-![系统设计权衡](./10-system-design-tradeoffs-you-cannot-ignore.png)
+![系统设计权衡](10-system-design-tradeoffs-you-cannot-ignore.png)
 
 不懂权衡，就不懂系统设计。这10个经典权衡你必须掌握 👇
 
