@@ -2,7 +2,7 @@
 
 > 用代码管理基础设施，告别手动运维
 
-![IaC全景图](./a-cheatsheet-on-infrastructure-as-code-landscape.png)
+![IaC全景图](a-cheatsheet-on-infrastructure-as-code-landscape.png)
 
 用代码管理基础设施是实现可扩展运维的关键。几种核心策略 👇
 

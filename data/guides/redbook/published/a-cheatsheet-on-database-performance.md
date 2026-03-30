@@ -2,7 +2,7 @@
 
 > 数据库慢了别慌，按这个清单逐一排查
 
-![数据库性能优化](./a-cheatsheet-on-database-performance.png)
+![数据库性能优化](a-cheatsheet-on-database-performance.png)
 
 数据库性能优化的10个关键策略 👇
 

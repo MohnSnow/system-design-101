@@ -2,7 +2,7 @@
 
 > 数据量太大一台机器扛不住？分片来救场
 
-![数据库分片](./a-crash-course-in-database-sharding.png)
+![数据库分片](a-crash-course-in-database-sharding.png)
 
 数据库分片是把超大数据库拆成更小、更快、更易管理的部分 👇
 

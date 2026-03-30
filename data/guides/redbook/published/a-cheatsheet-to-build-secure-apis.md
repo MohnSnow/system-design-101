@@ -2,7 +2,7 @@
 
 > 不安全的API会让整个应用暴露在风险中
 
-![安全API速查表](./a-cheatsheet-to-build-secure-apis.png)
+![安全API速查表](a-cheatsheet-to-build-secure-apis.png)
 
 一个不安全的API可能危及整个应用。这6个策略帮你降低风险 👇
 

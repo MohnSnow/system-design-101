@@ -2,7 +2,7 @@
 
 > SOAP、REST、GraphQL、gRPC……到底该用哪个？
 
-![API架构风格对比](./a-cheatsheet-on-comparing-api-architectural-styles.png)
+![API架构风格对比](a-cheatsheet-on-comparing-api-architectural-styles.png)
 
 6种最流行的API架构风格，一图对比 👇
 
