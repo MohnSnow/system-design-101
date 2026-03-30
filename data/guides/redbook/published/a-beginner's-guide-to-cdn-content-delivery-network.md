@@ -2,7 +2,7 @@
 
 > 网站加载慢？CDN帮你提速到飞起
 
-![CDN入门](./a-beginner's-guide-to-cdn-content-delivery-network.png)
+![CDN入门](a-beginner's-guide-to-cdn-content-delivery-network.png)
 
 CDN（内容分发网络）是分布式服务器网络，能提升内容交付的性能、可靠性和安全性 👇
 

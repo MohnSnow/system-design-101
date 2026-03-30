@@ -2,7 +2,7 @@
 
 > API暴露了业务逻辑和数据，安全设计至关重要
 
-![API设计速查表](./a-cheat-sheet-for-api-designs.png)
+![API设计速查表](a-cheat-sheet-for-api-designs.png)
 
 API对外暴露业务逻辑和数据，安全高效的设计是基础 👇
 

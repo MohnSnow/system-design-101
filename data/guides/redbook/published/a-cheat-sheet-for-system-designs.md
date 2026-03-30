@@ -2,7 +2,7 @@
 
 > 系统设计面试前必看，收藏这一张图就够了
 
-![系统设计速查表](./a-cheat-sheet-for-system-designs.png)
+![系统设计速查表](a-cheat-sheet-for-system-designs.png)
 
 系统设计的15个核心概念，面试和工作都用得上 👇
 

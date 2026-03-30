@@ -2,7 +2,7 @@
 
 > 系统一定会出故障，关键是出了故障还能正常运行
 
-![容错系统设计](./a-cheat-sheet-for-designing-fault-tolerant-systems.png)
+![容错系统设计](a-cheat-sheet-for-designing-fault-tolerant-systems.png)
 
 设计容错系统是保障高可用和可靠性的关键。6大核心原则 👇
 

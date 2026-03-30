@@ -2,7 +2,7 @@
 
 > 一张图看懂编程语言的前世今生
 
-![编程语言历史](./a-brief-history-og-programming-languages.png)
+![编程语言历史](a-brief-history-og-programming-languages.png)
 
 C、Java、Python、Go、Rust……这些语言是怎么一步步演化来的？👇
 

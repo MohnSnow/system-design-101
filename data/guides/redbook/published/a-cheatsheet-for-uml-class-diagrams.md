@@ -2,7 +2,7 @@
 
 > 画类图是架构师的基本功，这张速查表帮你快速上手
 
-![UML类图](./a-cheatsheet-for-uml-class-diagrams.png)
+![UML类图](a-cheatsheet-for-uml-class-diagrams.png)
 
 UML是可视化系统设计的标准方式，类图在业界广泛使用 👇
 
