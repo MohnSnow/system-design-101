@@ -2,7 +2,7 @@
 
 > 从单体到SOA，Airbnb是怎么扛住超级增长的？
 
-![Airbnb架构进化](./airbnb-artchitectural-evolution.png)
+![Airbnb架构进化](airbnb-artchitectural-evolution.png)
 
 Airbnb覆盖200+国家，400万房东接待了超过15亿房客。背后的技术架构是怎么演进的？👇
 

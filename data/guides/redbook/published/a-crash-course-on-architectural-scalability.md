@@ -2,7 +2,7 @@
 
 > 系统扩展不了？先找到瓶颈在哪
 
-![架构可扩展性](./a-crash-course-on-architectural-scalability.png)
+![架构可扩展性](a-crash-course-on-architectural-scalability.png)
 
 可扩展性 = 系统在负载增加时不丢性能的能力 👇
 

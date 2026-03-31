@@ -2,7 +2,7 @@
 
 > 微服务不是银弹，Amazon用实际案例证明了这一点
 
-![Prime Video架构迁移](./amazon-prime-video-monitoring-service.png)
+![Prime Video架构迁移](amazon-prime-video-monitoring-service.jpeg)
 
 Amazon Prime Video的监控服务从Serverless迁移到单体架构，成本直降90%。怎么回事？👇
 

@@ -2,7 +2,7 @@
 
 > 想成为全栈工程师？这份路线图帮你规划方向
 
-![全栈开发路线图](./a-roadmap-for-full-stack-development.png)
+![全栈开发路线图](a-roadmap-for-full-stack-development.png)
 
 全栈开发者需要掌握多个领域的技术。7大技术栈一览 👇
 
