@@ -2,7 +2,7 @@
 
 > Go语言之父Rob Pike说：并发是处理，并行是执行
 
-![并发vs并行](./concurrency-is-not-parallelism.png)
+![并发vs并行](concurrency-is-not-parallelism.png)
 
 并发和并行经常被混淆，但它们是完全不同的概念 👇
 

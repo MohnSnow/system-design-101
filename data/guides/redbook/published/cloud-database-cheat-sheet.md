@@ -2,7 +2,7 @@
 
 > 选数据库选到头秃？这张表帮你理清思路
 
-![云数据库速查表](./cloud-database-cheat-sheet.png)
+![云数据库速查表](cloud-database-cheat-sheet.png)
 
 云服务中各种数据库及其对应的开源/第三方替代方案一览 👇
 

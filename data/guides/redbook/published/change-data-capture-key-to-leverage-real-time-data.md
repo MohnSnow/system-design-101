@@ -2,7 +2,7 @@
 
 > 数据库、数据湖、数据仓库不同步？CDC帮你搞定
 
-![CDC变更数据捕获](./change-data-capture-key-to-leverage-real-time-data.png)
+![CDC变更数据捕获](change-data-capture-key-to-leverage-real-time-data.png)
 
 全球90%的数据是最近两年产生的，最大的挑战是如何实时利用这些数据。CDC可以帮你 👇
 

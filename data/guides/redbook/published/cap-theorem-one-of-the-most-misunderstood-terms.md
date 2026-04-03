@@ -2,7 +2,7 @@
 
 > 别再简单地说数据库是CP还是AP了
 
-![CAP定理](./cap-theorem-one-of-the-most-misunderstood-terms.png)
+![CAP定理](cap-theorem-one-of-the-most-misunderstood-terms.jpeg)
 
 CAP定理是计算机科学中最著名的概念之一，但也是被误解最多的 👇
 

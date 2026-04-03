@@ -2,7 +2,7 @@
 
 > 不管你是开发、测试还是运维，CI/CD都是必修课
 
-![CI/CD工作流](./cicd-simplified-visual-guide.png)
+![CI/CD工作流](cicd-simplified-visual-guide.png)
 
 CI/CD已经成为现代软件开发的标配 👇
 

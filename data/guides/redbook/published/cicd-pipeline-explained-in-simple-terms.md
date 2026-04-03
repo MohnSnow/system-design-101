@@ -2,7 +2,7 @@
 
 > 代码提交后自动构建、测试、部署，这就是CI/CD
 
-![CI/CD流水线](./cicd-pipeline-explained-in-simple-terms.png)
+![CI/CD流水线](cicd-pipeline-explained-in-simple-terms.png)
 
 CI/CD自动化了软件开发的构建、测试和部署阶段 👇
 

@@ -2,7 +2,7 @@
 
 > Zapier、IFTTT这些工具背后的原理是什么？
 
-![API集成](./api-of-apis-app-integrations.png)
+![API集成](api-of-apis-app-integrations.png)
 
 Zapier、IFTTT等无代码工具让任何人都能通过可视化界面构建应用和自动化工作流 👇
 

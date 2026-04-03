@@ -2,7 +2,7 @@
 
 > 多云环境下，负载均衡是保障用户体验的关键
 
-![云负载均衡器](./cloud-load-balancer-cheat-sheet.png)
+![云负载均衡器](cloud-load-balancer-cheat-sheet.png)
 
 在多云环境中，掌握负载均衡对于保障用户体验和最大化资源利用至关重要 👇
 

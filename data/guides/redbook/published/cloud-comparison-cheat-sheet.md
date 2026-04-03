@@ -2,7 +2,7 @@
 
 > 同一个功能，三家云的服务名不一样，这张表帮你对照
 
-![云平台对比](./cloud-comparison-cheat-sheet.png)
+![云平台对比](cloud-comparison-cheat-sheet.png)
 
 AWS、Azure、GCP的服务太多，名字还不一样？这张对比表帮你快速找到对应关系 👇
 

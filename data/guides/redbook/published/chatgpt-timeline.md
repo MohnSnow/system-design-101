@@ -2,7 +2,7 @@
 
 > ChatGPT不是凭空出现的，背后是几十年的研究积累
 
-![ChatGPT时间线](./chatgpt-timeline.png)
+![ChatGPT时间线](chatgpt-timeline.png)
 
 ChatGPT看似横空出世，实际上建立在几十年的研究基础上 👇
 

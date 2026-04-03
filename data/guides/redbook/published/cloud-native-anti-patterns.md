@@ -2,7 +2,7 @@
 
 > 知道什么不该做，比知道该做什么更重要
 
-![云原生反模式](./cloud-native-anti-patterns.png)
+![云原生反模式](cloud-native-anti-patterns.png)
 
 上云不等于云原生，这9个反模式要避免 👇
 

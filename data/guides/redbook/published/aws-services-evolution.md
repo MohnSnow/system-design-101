@@ -2,7 +2,7 @@
 
 > 一张图看懂AWS是怎么从小到大长成云计算巨头的
 
-![AWS服务进化](./aws-services-evolution.png)
+![AWS服务进化](aws-services-evolution.png)
 
 AWS从2006年的几个服务发展到200+全功能服务，来看这段进化史 👇
 

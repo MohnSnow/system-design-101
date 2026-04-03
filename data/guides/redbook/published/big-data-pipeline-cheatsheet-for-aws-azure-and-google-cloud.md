@@ -2,7 +2,7 @@
 
 > 同样的数据处理流程，三家云的方案对比
 
-![大数据管道速查表](./big-data-pipeline-cheatsheet-for-aws-azure-and-google-cloud.png)
+![大数据管道速查表](big-data-pipeline-cheatsheet-for-aws-azure-and-google-cloud.png)
 
 大数据管道的5个阶段，三大云平台各自的方案 👇
 

@@ -2,7 +2,7 @@
 
 > Redis不只是缓存，还能做实时消息系统
 
-![Redis聊天应用](./build-a-simple-chat-application.png)
+![Redis聊天应用](build-a-simple-chat-application.jpg)
 
 用Redis的发布/订阅功能搭建聊天应用，分两个阶段 👇
 

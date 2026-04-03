@@ -2,7 +2,7 @@
 
 > AWS服务太多记不住？这张图帮你理清
 
-![AWS服务速查表](./aws-services-cheat-sheet.png)
+![AWS服务速查表](aws-services-cheat-sheet.png)
 
 AWS从内部项目成长为云服务市场领导者，服务多到连专家都觉得眼花缭乱 👇
 

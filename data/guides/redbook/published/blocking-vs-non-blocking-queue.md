@@ -2,7 +2,7 @@
 
 > 搞懂这个，并发编程就入门了一半
 
-![阻塞vs非阻塞队列](./blocking-vs-non-blocking-queue.png)
+![阻塞vs非阻塞队列](blocking-vs-non-blocking-queue.jpeg)
 
 并发编程中最容易混淆的概念之一，一次讲清楚 👇
 

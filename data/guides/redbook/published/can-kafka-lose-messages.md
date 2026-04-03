@@ -2,7 +2,7 @@
 
 > 很多人以为Kafka不会丢消息，其实不然
 
-![Kafka消息丢失](./can-kafka-lose-messages.png)
+![Kafka消息丢失](can-kafka-lose-messages.png)
 
 很多开发者认为Kafka天生不丢消息，但实际上在生产者、Broker和消费者三个环节都可能丢 👇
 

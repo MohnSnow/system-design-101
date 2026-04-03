@@ -2,7 +2,7 @@
 
 > 跨系统传数据时踩过坑的人都懂这个痛
 
-![大端序vs小端序](./big-endian-vs-little-endian.png)
+![大端序vs小端序](big-endian-vs-little-endian.png)
 
 处理器存储多字节数据时有两种方式，这就是"字节序" 👇
 

@@ -2,7 +2,7 @@
 
 > 上云容易省钱难，这6招帮你砍掉不必要的开支
 
-![云成本优化](./cloud-cost-reduction-techniques.png)
+![云成本优化](cloud-cost-reduction-techniques.png)
 
 云成本失控是很多企业面临的挑战。6个实用的降本技巧 👇
 

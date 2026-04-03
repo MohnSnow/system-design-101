@@ -2,7 +2,7 @@
 
 > Azure市场份额第二，这些核心服务你该了解
 
-![Azure服务速查表](./azure-services-cheat-sheet.png)
+![Azure服务速查表](azure-services-cheat-sheet.png)
 
 微软Azure从2010年上线，迅速成长为市场份额第二的云平台 👇
 

@@ -2,7 +2,7 @@
 
 > 系统设计中最常见的缩写词，一次搞懂
 
-![技术缩写词](./cap-base-solid-kiss-what-do-these-acronyms-mean.png)
+![技术缩写词](cap-base-solid-kiss-what-do-these-acronyms-mean.png)
 
 面试和工作中经常遇到这些缩写，来一次性搞清楚 👇
 

@@ -2,7 +2,7 @@
 
 > 灾难恢复不是可选项，是必需品
 
-![云灾难恢复](./cloud-disaster-recovery-strategies.png)
+![云灾难恢复](cloud-disaster-recovery-strategies.png)
 
 有效的灾难恢复计划是必需品。两个关键指标 👇
 

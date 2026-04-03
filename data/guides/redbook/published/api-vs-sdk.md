@@ -2,7 +2,7 @@
 
 > 都是开发工具，但用途完全不同
 
-![API vs SDK](./api-vs-sdk.png)
+![API vs SDK](api-vs-sdk.png)
 
 API和SDK是软件开发中的基础工具，但它们的定位不同 👇
 

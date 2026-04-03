@@ -2,7 +2,7 @@
 
 > 系统出问题不可怕，可怕的是你不知道出了问题
 
-![云监控速查表](./cloud-monitoring-cheat-sheet.png)
+![云监控速查表](cloud-monitoring-cheat-sheet.png)
 
 三大云平台和开源工具的监控方案对比，覆盖9个关键维度 👇
 

@@ -2,7 +2,7 @@
 
 > 读多用B-Tree，写多用LSM-Tree，就这么简单
 
-![B-Tree vs LSM-Tree](./b-tree-vs.png)
+![B-Tree vs LSM-Tree](b-tree-vs.png)
 
 数据库索引的两大核心数据结构，各有所长 👇
 
