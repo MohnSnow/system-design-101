@@ -1,4 +1,4 @@
-# 🚀 Figma如何把Postgres扩展100倍？大厂数据库扩容实战
+# 🚀 Figma如何把Postgres扩展
 
 > 300万月活用户，数据库增长100倍，Figma是怎么扛住的？
 

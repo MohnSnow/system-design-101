@@ -1,4 +1,4 @@
-# 📦 Monorepo vs Microrepo！Google和Amazon的不同选择
+# 📦 Monorepo vs
 
 > 为什么大厂的代码管理方式完全不同？
 

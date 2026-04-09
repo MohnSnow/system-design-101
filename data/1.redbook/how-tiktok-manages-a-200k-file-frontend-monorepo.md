@@ -1,4 +1,4 @@
-# 📱 TikTok如何管理20万文件的前端MonoRepo？
+# 📱 TikTok如何管理20万文件的前端
 
 > Git clone从40分钟降到2分钟
 

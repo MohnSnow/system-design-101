@@ -1,4 +1,4 @@
-# 🔑 Redis大Key对持久化的影响！三种AOF模式分析
+# 🔑 Redis大Key对持久化的影响
 
 > 5MB的大Key可能让Redis主线程卡死
 

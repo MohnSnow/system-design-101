@@ -1,4 +1,4 @@
-# 💬 Discord如何存储万亿条消息！数据库三次迁移
+# 💬 Discord如何存储万亿条消息
 
 > MongoDB → Cassandra → ScyllaDB，每次迁移都有故事
 

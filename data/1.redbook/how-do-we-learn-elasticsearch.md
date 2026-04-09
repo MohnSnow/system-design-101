@@ -1,4 +1,4 @@
-# 🔍 Elasticsearch学习指南！搜索引擎的核心技术
+# 🔍 Elasticsearch学习指南
 
 > 电商搜索、日志分析、全文检索都靠它
 

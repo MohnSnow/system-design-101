@@ -1,4 +1,4 @@
-# 🎬 Netflix API架构进化4阶段！从单体到联邦网关
+# 🎬 Netflix API架构进化4阶段
 
 > Netflix的API架构是怎么一步步演进的？
 

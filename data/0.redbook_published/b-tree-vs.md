@@ -1,4 +1,4 @@
-# 🌳 B-Tree vs LSM-Tree！数据库索引的两大流派
+# 🌳 B-Tree vs LSM-Tree
 
 > 读多用B-Tree，写多用LSM-Tree，就这么简单
 

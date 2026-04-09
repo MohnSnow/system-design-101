@@ -1,4 +1,4 @@
-# 📨 消息队列进化史！IBM MQ → RabbitMQ → Kafka → Pulsar
+# 📨 消息队列进化史
 
 > 30年进化，从企业级到云原生
 

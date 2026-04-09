@@ -1,4 +1,4 @@
-# 🔐 Session、Token、JWT、SSO、OAuth一图全解！
+# 🔐 Session、Token、JWT、
 
 > Web认证授权的5大概念，一张图搞定
 

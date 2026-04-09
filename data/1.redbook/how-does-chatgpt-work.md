@@ -1,4 +1,4 @@
-# 🤖 ChatGPT是怎么工作的？训练和回答全流程
+# 🤖 ChatGPT是怎么工作的
 
 > 从预训练到RLHF，ChatGPT的完整技术栈
 

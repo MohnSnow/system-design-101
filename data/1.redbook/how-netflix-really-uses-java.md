@@ -1,4 +1,4 @@
-# ☕ Netflix是怎么用Java的？Java技术栈进化史
+# ☕ Netflix是怎么用Java的
 
 > Netflix的每个后端应用都是Java应用
 

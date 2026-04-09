@@ -1,4 +1,4 @@
-# 🔴 Redis入门8步走！从零搞懂最流行的缓存数据库
+# 🔴 Redis入门8步走
 
 > Airbnb、Uber、Slack都在用的亚毫秒级数据库
 

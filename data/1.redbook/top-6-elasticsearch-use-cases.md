@@ -1,4 +1,4 @@
-# 🔍 Elasticsearch的6大使用场景！不只是搜索
+# 🔍 Elasticsearch的6大使用
 
 > 全文搜索、实时分析、机器学习、地理数据……
 

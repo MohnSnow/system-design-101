@@ -1,4 +1,4 @@
-# 🔄 DevOps vs NoOps！软件开发模式的进化
+# 🔄 DevOps vs NoOps
 
 > 从传统开发到DevOps再到NoOps，效率越来越高
 

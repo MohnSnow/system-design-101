@@ -1,4 +1,4 @@
-# 🌐 K8s四种Service类型一图搞懂！
+# 🌐 K8s四种Service类型一图搞懂
 
 > ClusterIP、NodePort、LoadBalancer、ExternalName
 

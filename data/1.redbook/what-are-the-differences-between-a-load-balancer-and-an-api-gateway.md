@@ -1,4 +1,4 @@
-# ⚖️ 负载均衡器 vs API网关！到底有什么区别？
+# ⚖️ 负载均衡器 vs API网关
 
 > NLB看IP，ALB看HTTP，API网关管应用层
 

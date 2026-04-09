@@ -1,4 +1,4 @@
-# 🍪 一张图搞懂 HTTP Cookie！网站是怎么"记住"你的？
+# 🍪 一张图搞懂 HTTP Cookie
 
 > HTTP本身没有记忆，Cookie就是它的"小纸条"
 

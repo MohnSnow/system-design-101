@@ -1,4 +1,4 @@
-# ⚡ AWS Lambda幕后原理！Serverless是怎么运行的？
+# ⚡ AWS Lambda幕后原理
 
 > Firecracker微虚拟机是Lambda的引擎
 

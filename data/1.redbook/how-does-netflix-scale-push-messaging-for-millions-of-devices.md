@@ -1,4 +1,4 @@
-# 🎬 Netflix如何为2.2亿用户推送消息？
+# 🎬 Netflix如何为2.
 
 > 覆盖iOS、Android、智能电视、Roku等所有设备
 

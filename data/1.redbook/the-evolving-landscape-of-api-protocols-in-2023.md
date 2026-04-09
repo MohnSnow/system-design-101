@@ -1,4 +1,4 @@
-# 🌐 2023年API协议全景图！6大主流协议对比
+# 🌐 2023年API协议全景图
 
 > REST、GraphQL、gRPC、WebSocket……各有什么优劣？
 

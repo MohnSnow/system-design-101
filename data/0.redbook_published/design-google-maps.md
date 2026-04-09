@@ -1,4 +1,4 @@
-# 🗺️ 设计Google Maps！10亿日活的地图系统怎么做
+# 🗺️ 设计Google Maps
 
 > 三大核心组件拆解Google Maps的架构
 

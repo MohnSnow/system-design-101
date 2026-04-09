@@ -1,4 +1,4 @@
-# ⚡ 浏览器里跑C++/Rust？WebAssembly了解一下！
+# ⚡ 浏览器里跑C++/Rust
 
 > WASM让Web应用拥有接近原生的性能
 

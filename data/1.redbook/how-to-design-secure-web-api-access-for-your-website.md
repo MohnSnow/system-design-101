@@ -1,4 +1,4 @@
-# 🔐 Web API安全访问设计！Token vs HMAC两种方案
+# 🔐 Web API安全访问设计
 
 > 每个API调用都必须经过认证
 

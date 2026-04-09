@@ -1,4 +1,4 @@
-# 🐳 Docker必知的9条最佳实践！容器化不踩坑
+# 🐳 Docker必知的9条最佳实践
 
 > 用Docker不难，用好Docker才是本事
 

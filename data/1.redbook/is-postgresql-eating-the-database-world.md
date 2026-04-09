@@ -1,4 +1,4 @@
-# 🐘 PostgreSQL正在吞噬数据库世界！一个数据库能干这么多事？
+# 🐘 PostgreSQL正在吞噬数据库世
 
 > 不知道选什么数据库？选PostgreSQL就对了
 

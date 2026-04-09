@@ -1,4 +1,4 @@
-# 📋 HTTP Headers 你可能不知道的重要知识！
+# 📋 HTTP Headers
 
 > 请求头和响应头到底在传递什么信息？
 

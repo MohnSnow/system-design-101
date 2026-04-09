@@ -1,4 +1,4 @@
-# 🔑 再见密码！Passkey无密码登录时代来了
+# 🔑 再见密码！Passkey无密码登录时
 
 > Google、Apple、Microsoft 联手推动的下一代认证方式
 

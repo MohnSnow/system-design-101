@@ -1,4 +1,4 @@
-# 🏛️ MVC vs MVP vs MVVM vs VIPER！4大架构模式对比
+# 🏛️ MVC vs MVP vs
 
 > 客户端架构模式到底有什么区别？
 

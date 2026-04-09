@@ -1,4 +1,4 @@
-# 🔧 DevOps vs SRE vs 平台工程！三者有什么区别？
+# 🔧 DevOps vs SRE vs
 
 > 都是为了提升效率，但侧重点不同
 

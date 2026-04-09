@@ -1,4 +1,4 @@
-# 🍪 Cookie vs Session！一个存客户端一个存服务端
+# 🍪 Cookie vs Session
 
 > 都用来携带用户信息，但机制完全不同
 

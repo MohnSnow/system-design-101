@@ -1,4 +1,4 @@
-# 📊 ELK Stack是什么？为什么日志管理都用它？
+# 📊 ELK Stack是什么
 
 > Elasticsearch + Logstash + Kibana，日志分析三剑客
 

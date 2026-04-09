@@ -1,4 +1,4 @@
-# 🎬 Amazon Prime Video从微服务回归单体，省了90%成本！
+# 🎬 Amazon Prime
 
 > 微服务不是银弹，Amazon用实际案例证明了这一点
 

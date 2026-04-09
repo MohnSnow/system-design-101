@@ -1,4 +1,4 @@
-# 🔐 Google Authenticator是怎么工作的？两步验证原理
+# 🔐 Google
 
 > 每30秒生成一个6位数密码，安全又方便
 

@@ -1,4 +1,4 @@
-# 🔤 CAP、BASE、SOLID、KISS！这些缩写到底啥意思？
+# 🔤 CAP、BASE、SOLID、
 
 > 系统设计中最常见的缩写词，一次搞懂
 

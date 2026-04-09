@@ -1,4 +1,4 @@
-# 🔑 Session、Cookie、JWT、SSO、OAuth 2.0 一图全搞懂！
+# 🔑 Session、Cookie、
 
 > 登录认证的6种方案，面试必考
 

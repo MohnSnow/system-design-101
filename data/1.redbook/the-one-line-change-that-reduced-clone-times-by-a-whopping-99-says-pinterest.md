@@ -1,4 +1,4 @@
-# ⚡ Pinterest一行代码改动，克隆时间从40分钟降到30秒！
+# ⚡ Pinterest一行代码改动，
 
 > 小改动大影响，Git refspec 的威力
 

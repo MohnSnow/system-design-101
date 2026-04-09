@@ -1,4 +1,4 @@
-# 🔗 LinkedIn如何使用GraphQL？大厂实战经验
+# 🔗 LinkedIn如何使用GraphQ
 
 > "迁移到GraphQL改变了数千名工程师的开发工作流"
 

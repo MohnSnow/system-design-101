@@ -1,4 +1,4 @@
-# 🧠 DeepSeek一页纸速览！600万美元训出的AI黑马
+# 🧠 DeepSeek一页纸速览
 
 > 用2000张GPU训出媲美GPT-4的模型，DeepSeek做到了
 

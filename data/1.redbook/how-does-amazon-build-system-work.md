@@ -1,4 +1,4 @@
-# 🏗️ Amazon的构建系统Brazil揭秘！微仓库驱动协作
+# 🏗️ Amazon的构建系统Brazil
 
 > Amazon内部用的构建系统，值得学习
 

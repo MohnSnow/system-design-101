@@ -1,4 +1,4 @@
-# 🔐 Linux文件权限一图看懂！chmod再也不迷糊
+# 🔐 Linux文件权限一图看懂
 
 > Owner、Group、Other + rwx，就这么简单
 

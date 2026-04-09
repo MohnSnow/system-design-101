@@ -1,4 +1,4 @@
-# 🏗️ Terraform如何把代码变成云基础设施？
+# 🏗️ Terraform如何把代码变成云
 
 > Write → Plan → Apply → Ready，4步搞定
 

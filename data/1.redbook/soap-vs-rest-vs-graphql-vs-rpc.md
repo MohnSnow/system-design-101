@@ -1,4 +1,4 @@
-# 🔀 SOAP vs REST vs GraphQL vs RPC！4种API风格对比
+# 🔀 SOAP vs REST vs
 
 > API架构风格的演进时间线和使用场景
 

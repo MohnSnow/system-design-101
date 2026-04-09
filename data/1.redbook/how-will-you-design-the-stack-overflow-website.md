@@ -1,4 +1,4 @@
-# 🤯 Stack Overflow 的架构竟然是单体应用？！
+# 🤯 Stack Overflow
 
 > 面试答微服务可能翻车，人家真实架构完全不一样
 

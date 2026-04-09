@@ -1,4 +1,4 @@
-# ⚡ AWS Lambda为什么这么快？4大核心支柱
+# ⚡ AWS Lambda为什么这么快
 
 > Firecracker微虚拟机+零拷贝+Rust高性能
 

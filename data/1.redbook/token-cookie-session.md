@@ -1,4 +1,4 @@
-# 🔑 Token、Cookie、Session、JWT、SSO、OAuth 一次讲清！
+# 🔑 Token、Cookie、
 
 > 从简单到复杂，用户身份管理的6种方案
 

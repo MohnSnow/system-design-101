@@ -1,0 +1,45 @@
+2026/04/09-17:52:56.689 120604a Reusing MANIFEST /Users/mengdexin/workspace/envision/system-design-101/scripts/wechat/.browser_data/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/09-17:52:56.717 120604a Recovering log #182
+2026/04/09-17:52:56.723 120604a Reusing old log /Users/mengdexin/workspace/envision/system-design-101/scripts/wechat/.browser_data/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/000182.log 
+2026/04/09-17:52:59.380 120604a Level-0 table #187: started
+2026/04/09-17:52:59.403 120604a Level-0 table #187: 1033949 bytes OK
+2026/04/09-17:52:59.427 120604a Delete type=0 #182
+2026/04/09-17:52:59.428 120604d Compacting 1@1 + 2@2 files
+2026/04/09-17:52:59.447 120604d Generated table #188@1: 32103 keys, 2194418 bytes
+2026/04/09-17:52:59.508 120604d Generated table #189@1: 1904 keys, 153537 bytes
+2026/04/09-17:52:59.508 120604d Compacted 1@1 + 2@2 files => 2347955 bytes
+2026/04/09-17:52:59.512 120604d compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/04/09-17:53:14.670 120604d Level-0 table #191: started
+2026/04/09-17:53:14.696 120604d Level-0 table #191: 878165 bytes OK
+2026/04/09-17:53:14.701 120604d Delete type=2 #184
+2026/04/09-17:53:14.701 120604d Delete type=2 #178
+2026/04/09-17:53:14.701 120604d Delete type=2 #187
+2026/04/09-17:53:14.701 120604d Delete type=0 #186
+2026/04/09-17:53:14.716 1206049 Compacting 1@1 + 2@2 files
+2026/04/09-17:53:14.745 1206049 Generated table #192@1: 11811 keys, 1937542 bytes
+2026/04/09-17:53:14.745 1206049 Compacted 1@1 + 2@2 files => 1937542 bytes
+2026/04/09-17:53:14.746 1206049 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/09-17:53:14.746 1206049 Delete type=2 #189
+2026/04/09-17:53:14.746 1206049 Delete type=2 #188
+2026/04/09-17:53:14.746 1206049 Delete type=2 #191
+2026/04/09-17:53:19.522 120604a Level-0 table #194: started
+2026/04/09-17:53:19.539 120604a Level-0 table #194: 976782 bytes OK
+2026/04/09-17:53:19.545 120604a Delete type=0 #190
+2026/04/09-17:53:19.712 1206049 Compacting 1@1 + 1@2 files
+2026/04/09-17:53:19.734 1206049 Generated table #195@1: 17690 keys, 2197456 bytes
+2026/04/09-17:53:19.739 1206049 Generated table #196@1: 2038 keys, 327850 bytes
+2026/04/09-17:53:19.739 1206049 Compacted 1@1 + 1@2 files => 2525306 bytes
+2026/04/09-17:53:19.742 1206049 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/04/09-17:53:19.743 1206049 Delete type=2 #194
+2026/04/09-17:53:19.743 1206049 Delete type=2 #192
+2026/04/09-17:53:21.221 120604a Level-0 table #198: started
+2026/04/09-17:53:21.239 120604a Level-0 table #198: 926173 bytes OK
+2026/04/09-17:53:21.245 120604a Delete type=0 #193
+2026/04/09-17:53:21.289 120604d Compacting 1@1 + 2@2 files
+2026/04/09-17:53:21.311 120604d Generated table #199@1: 25615 keys, 2197037 bytes
+2026/04/09-17:53:21.315 120604d Generated table #200@1: 2096 keys, 873141 bytes
+2026/04/09-17:53:21.315 120604d Compacted 1@1 + 2@2 files => 3070178 bytes
+2026/04/09-17:53:21.317 120604d compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/04/09-17:53:21.317 120604d Delete type=2 #198
+2026/04/09-17:53:21.317 120604d Delete type=2 #196
+2026/04/09-17:53:21.317 120604d Delete type=2 #195

@@ -1,4 +1,4 @@
-# 🔐 Cookie vs Session vs JWT vs PASETO！认证方案大对比
+# 🔐 Cookie vs Session
 
 > 四种认证方式各有优劣，选对很重要
 

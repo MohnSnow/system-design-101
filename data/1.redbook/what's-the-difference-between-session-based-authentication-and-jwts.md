@@ -1,4 +1,4 @@
-# 🔑 Session认证 vs JWT认证！到底有什么区别？
+# 🔑 Session认证 vs JWT认证
 
 > 一个像只给你票号，一个像给你完整机票
 

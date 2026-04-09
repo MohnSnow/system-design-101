@@ -1,4 +1,4 @@
-# ⚡ Memcached vs Redis！面试高频题一图搞定
+# ⚡ Memcached vs Redis
 
 > 两大缓存之王到底怎么选？
 

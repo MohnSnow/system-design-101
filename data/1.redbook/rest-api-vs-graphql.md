@@ -1,4 +1,4 @@
-# ⚔️ REST vs GraphQL！到底该选哪个？
+# ⚔️ REST vs GraphQL
 
 > 两种API设计方案的优劣对比
 

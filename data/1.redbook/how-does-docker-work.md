@@ -1,4 +1,4 @@
-# 🐳 Docker是怎么工作的？三大组件详解
+# 🐳 Docker是怎么工作的
 
 > docker build、docker pull、docker run背后发生了什么
 

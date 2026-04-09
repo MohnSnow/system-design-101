@@ -1,4 +1,4 @@
-# 📊 Levels.fyi用Google Sheets撑住百万用户！
+# 📊 Levels.
 
 > 用Google表格当数据库，居然能扛住这么大流量
 

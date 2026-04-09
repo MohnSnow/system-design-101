@@ -1,4 +1,4 @@
-# 🎬 Netflix的CI/CD流水线长什么样？
+# 🎬 Netflix的CI/CD流水线长什
 
 > 从规划到上线，Netflix的DevOps全流程
 

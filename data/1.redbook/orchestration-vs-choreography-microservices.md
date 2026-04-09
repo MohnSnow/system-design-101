@@ -1,4 +1,4 @@
-# 🎭 编排 vs 编舞！微服务协作的两种模式
+# 🎭 编排 vs 编舞
 
 > Orchestration 像指挥家，Choreography 像舞者自由配合
 
