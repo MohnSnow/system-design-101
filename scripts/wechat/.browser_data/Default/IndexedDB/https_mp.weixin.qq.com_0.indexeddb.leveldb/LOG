@@ -1,78 +1,34 @@
-2026/04/09-17:55:58.491 12080d3 Reusing MANIFEST /Users/mengdexin/workspace/envision/system-design-101/scripts/wechat/.browser_data/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/09-17:55:58.491 12080d3 Recovering log #197
-2026/04/09-17:55:58.496 12080d3 Reusing old log /Users/mengdexin/workspace/envision/system-design-101/scripts/wechat/.browser_data/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/000197.log 
-2026/04/09-17:56:18.784 12080d7 Level-0 table #203: started
-2026/04/09-17:56:18.795 12080d7 Level-0 table #203: 1021141 bytes OK
-2026/04/09-17:56:18.798 12080d7 Delete type=0 #197
-2026/04/09-17:56:18.834 12080d4 Compacting 1@1 + 2@2 files
-2026/04/09-17:56:18.867 12080d4 Generated table #204@1: 25303 keys, 2170145 bytes
-2026/04/09-17:56:18.876 12080d4 Generated table #205@1: 10136 keys, 1501453 bytes
-2026/04/09-17:56:18.876 12080d4 Compacted 1@1 + 2@2 files => 3671598 bytes
-2026/04/09-17:56:18.878 12080d4 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/04/09-17:56:18.878 12080d4 Delete type=2 #203
-2026/04/09-17:56:18.878 12080d4 Delete type=2 #200
-2026/04/09-17:56:18.878 12080d4 Delete type=2 #199
-2026/04/09-17:56:20.234 12080d7 Level-0 table #207: started
-2026/04/09-17:56:20.247 12080d7 Level-0 table #207: 928246 bytes OK
-2026/04/09-17:56:20.251 12080d7 Delete type=0 #202
-2026/04/09-17:56:20.292 12080d7 Compacting 1@1 + 2@2 files
-2026/04/09-17:56:20.329 12080d7 Generated table #208@1: 12279 keys, 2153792 bytes
-2026/04/09-17:56:20.351 12080d7 Generated table #209@1: 31107 keys, 2067744 bytes
-2026/04/09-17:56:20.351 12080d7 Compacted 1@1 + 2@2 files => 4221536 bytes
-2026/04/09-17:56:20.353 12080d7 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/04/09-17:56:20.353 12080d7 Delete type=2 #205
-2026/04/09-17:56:20.353 12080d7 Delete type=2 #204
-2026/04/09-17:56:20.353 12080d7 Delete type=2 #207
-2026/04/09-17:56:21.634 12080d4 Level-0 table #211: started
-2026/04/09-17:56:21.649 12080d4 Level-0 table #211: 930079 bytes OK
-2026/04/09-17:56:21.650 12080d4 Delete type=0 #206
-2026/04/09-17:56:21.679 12080d7 Compacting 1@1 + 2@2 files
-2026/04/09-17:56:21.700 12080d7 Generated table #212@1: 12252 keys, 2154714 bytes
-2026/04/09-17:56:21.717 12080d7 Generated table #213@1: 36844 keys, 2171808 bytes
-2026/04/09-17:56:21.721 12080d7 Generated table #214@1: 2183 keys, 447580 bytes
-2026/04/09-17:56:21.721 12080d7 Compacted 1@1 + 2@2 files => 4774102 bytes
-2026/04/09-17:56:21.723 12080d7 compacted to: files[ 0 0 3 0 0 0 0 ]
-2026/04/09-17:56:21.780 12080d4 Level-0 table #216: started
-2026/04/09-17:56:21.791 12080d4 Level-0 table #216: 1156856 bytes OK
-2026/04/09-17:56:21.793 12080d4 Delete type=0 #210
-2026/04/09-17:56:21.793 12080d4 Delete type=2 #211
-2026/04/09-17:56:21.793 12080d4 Delete type=2 #209
-2026/04/09-17:56:21.793 12080d4 Delete type=2 #208
-2026/04/09-17:56:21.819 12080d7 Compacting 1@1 + 2@2 files
-2026/04/09-17:56:21.839 12080d7 Generated table #217@1: 12085 keys, 2153270 bytes
-2026/04/09-17:56:21.852 12080d7 Generated table #218@1: 31028 keys, 1621471 bytes
-2026/04/09-17:56:21.853 12080d7 Compacted 1@1 + 2@2 files => 3774741 bytes
-2026/04/09-17:56:21.855 12080d7 compacted to: files[ 0 0 3 0 0 0 0 ]
-2026/04/09-17:56:21.855 12080d4 Level-0 table #220: started
-2026/04/09-17:56:21.872 12080d4 Level-0 table #220: 1169639 bytes OK
-2026/04/09-17:56:21.874 12080d4 Delete type=0 #215
-2026/04/09-17:56:21.874 12080d4 Delete type=2 #216
-2026/04/09-17:56:21.874 12080d4 Delete type=2 #212
-2026/04/09-17:56:21.874 12080d4 Delete type=2 #213
-2026/04/09-17:56:21.899 12080d7 Compacting 1@1 + 2@2 files
-2026/04/09-17:56:21.902 12080d7 Level-0 table #223: started
-2026/04/09-17:56:21.911 12080d7 Level-0 table #223: 941181 bytes OK
-2026/04/09-17:56:21.914 12080d7 Delete type=0 #219
-2026/04/09-17:56:21.940 12080d7 Generated table #221@1: 33815 keys, 2223988 bytes
-2026/04/09-17:56:21.942 12080d7 Generated table #224@1: 58 keys, 645453 bytes
-2026/04/09-17:56:21.942 12080d7 Compacted 1@1 + 2@2 files => 2869441 bytes
-2026/04/09-17:56:21.943 12080d7 compacted to: files[ 1 0 3 0 0 0 0 ]
-2026/04/09-17:56:21.977 12080d4 Moved #223 to level-1 941181 bytes OK: files[ 0 1 3 0 0 0 0 ]
-2026/04/09-17:56:21.999 12080d4 Compacting 1@1 + 1@2 files
-2026/04/09-17:56:22.017 12080d4 Generated table #225@1: 24020 keys, 1264500 bytes
-2026/04/09-17:56:22.017 12080d4 Compacted 1@1 + 1@2 files => 1264500 bytes
-2026/04/09-17:56:22.019 12080d4 compacted to: files[ 0 0 3 0 0 0 0 ]
-2026/04/09-17:56:22.019 12080d4 Delete type=2 #217
-2026/04/09-17:56:22.019 12080d4 Delete type=2 #220
-2026/04/09-17:56:22.019 12080d4 Delete type=2 #218
-2026/04/09-17:56:22.113 12080d4 Level-0 table #227: started
-2026/04/09-17:56:22.123 12080d4 Level-0 table #227: 935061 bytes OK
-2026/04/09-17:56:22.125 12080d4 Delete type=2 #223
-2026/04/09-17:56:22.125 12080d4 Delete type=2 #221
-2026/04/09-17:56:22.125 12080d4 Delete type=0 #222
-2026/04/09-17:56:22.191 12080d4 Compacting 1@1 + 1@2 files
-2026/04/09-17:56:22.202 12080d4 Generated table #228@1: 18304 keys, 707107 bytes
-2026/04/09-17:56:22.203 12080d4 Compacted 1@1 + 1@2 files => 707107 bytes
-2026/04/09-17:56:22.204 12080d4 compacted to: files[ 0 0 3 0 0 0 0 ]
-2026/04/09-17:56:22.204 12080d4 Delete type=2 #225
-2026/04/09-17:56:22.204 12080d4 Delete type=2 #227
+2026/04/10-15:09:50.523 12a4f2d Reusing MANIFEST /Users/mengdexin/workspace/envision/system-design-101/scripts/wechat/.browser_data/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/10-15:09:50.523 12a4f2d Recovering log #382
+2026/04/10-15:09:50.527 12a4f2d Reusing old log /Users/mengdexin/workspace/envision/system-design-101/scripts/wechat/.browser_data/Default/IndexedDB/https_mp.weixin.qq.com_0.indexeddb.leveldb/000382.log 
+2026/04/10-15:10:04.340 12a4f2e Level-0 table #388: started
+2026/04/10-15:10:04.358 12a4f2e Level-0 table #388: 992747 bytes OK
+2026/04/10-15:10:04.361 12a4f2e Delete type=0 #382
+2026/04/10-15:10:04.687 12a4f2e Compacting 1@1 + 2@2 files
+2026/04/10-15:10:04.700 12a4f2e Generated table #389@1: 4338 keys, 2110521 bytes
+2026/04/10-15:10:04.700 12a4f2e Compacted 1@1 + 2@2 files => 2110521 bytes
+2026/04/10-15:10:04.701 12a4f2e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/10-15:10:04.702 12a4f2e Delete type=2 #388
+2026/04/10-15:10:04.702 12a4f2e Delete type=2 #384
+2026/04/10-15:10:04.702 12a4f2e Delete type=2 #385
+2026/04/10-15:10:14.904 12a4f2d Level-0 table #391: started
+2026/04/10-15:10:14.916 12a4f2d Level-0 table #391: 1043533 bytes OK
+2026/04/10-15:10:14.919 12a4f2d Delete type=0 #387
+2026/04/10-15:10:14.952 12a4f2e Compacting 1@1 + 1@2 files
+2026/04/10-15:10:14.962 12a4f2e Generated table #392@1: 4551 keys, 2117301 bytes
+2026/04/10-15:10:14.964 12a4f2e Generated table #393@1: 1632 keys, 36727 bytes
+2026/04/10-15:10:14.964 12a4f2e Compacted 1@1 + 1@2 files => 2154028 bytes
+2026/04/10-15:10:14.966 12a4f2e compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/04/10-15:10:15.023 12a4f2e Level-0 table #395: started
+2026/04/10-15:10:15.030 12a4f2e Level-0 table #395: 673566 bytes OK
+2026/04/10-15:10:15.032 12a4f2e Delete type=2 #389
+2026/04/10-15:10:15.032 12a4f2e Delete type=2 #391
+2026/04/10-15:10:15.032 12a4f2e Delete type=0 #390
+2026/04/10-15:10:15.032 12a4f2e Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/10-15:10:15.032 12a4f2e Manual compaction at level-1 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x1f\x03\x00\x005\xa2c\xd7yB\x00\x03\x00\x00\x00\x00\x002\xc9@' @ 3503345 : 1
+2026/04/10-15:10:15.032 12a4f2e Compacting 1@1 + 2@2 files
+2026/04/10-15:10:15.042 12a4f2e Generated table #396@1: 4077 keys, 2100552 bytes
+2026/04/10-15:10:15.042 12a4f2e Compacted 1@1 + 2@2 files => 2100552 bytes
+2026/04/10-15:10:15.043 12a4f2e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/10-15:10:15.044 12a4f2e Delete type=2 #395
+2026/04/10-15:10:15.045 12a4f2e Manual compaction at level-1 from '\x00\x04\x01\x1f\x03\x00\x005\xa2c\xd7yB\x00\x03\x00\x00\x00\x00\x002\xc9@' @ 3503345 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

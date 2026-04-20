@@ -35,7 +35,7 @@ scripts/redbook/.venv/bin/playwright install chromium
 在项目根目录创建 `.env` 文件：
 
 ```env
-XHS_COOKIE=你的小红书cookie字符串
+![![alt text](image-1.png)](image.png)
 ```
 
 ### 获取 Cookie 方法

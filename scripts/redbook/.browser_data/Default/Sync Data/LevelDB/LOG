@@ -1,3 +1,3 @@
-2026/04/09-17:59:31.086 120a440 Reusing MANIFEST /Users/mengdexin/workspace/envision/system-design-101/scripts/redbook/.browser_data/Default/Sync Data/LevelDB/MANIFEST-000001
-2026/04/09-17:59:31.117 120a440 Recovering log #3
-2026/04/09-17:59:31.118 120a440 Reusing old log /Users/mengdexin/workspace/envision/system-design-101/scripts/redbook/.browser_data/Default/Sync Data/LevelDB/000003.log 
+2026/04/10-10:18:15.279 124b7ff Reusing MANIFEST /Users/mengdexin/workspace/envision/system-design-101/scripts/redbook/.browser_data/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/04/10-10:18:15.294 124b7ff Recovering log #3
+2026/04/10-10:18:15.294 124b7ff Reusing old log /Users/mengdexin/workspace/envision/system-design-101/scripts/redbook/.browser_data/Default/Sync Data/LevelDB/000003.log 
