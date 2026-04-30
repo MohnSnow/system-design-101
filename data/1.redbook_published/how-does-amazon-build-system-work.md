@@ -2,7 +2,7 @@
 
 > Amazon内部用的构建系统，值得学习
 
-![Amazon Brazil构建系统](./how-does-amazon-build-system-work.png)
+![Amazon Brazil构建系统](how-does-amazon-build-system-work.jpeg)
 
 Amazon的所有权模型要求每个团队管理自己的仓库，Brazil构建系统应运而生 👇
 

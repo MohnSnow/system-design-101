@@ -2,7 +2,7 @@
 
 > Firecracker微虚拟机是Lambda的引擎
 
-![AWS Lambda原理](./how-does-aws-lambda-work-behind-the-scenes.png)
+![AWS Lambda原理](how-does-aws-lambda-work-behind-the-scenes.jpg)
 
 Lambda是AWS的Serverless计算服务，背后由Firecracker（Rust编写的虚拟化技术）驱动 👇
 

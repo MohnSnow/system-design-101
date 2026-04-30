@@ -2,7 +2,7 @@
 
 > 电商搜索、日志分析、全文检索都靠它
 
-![Elasticsearch](./how-do-we-learn-elasticsearch.png)
+![Elasticsearch](how-do-we-learn-elasticsearch.jpeg)
 
 基于Lucene的Elasticsearch，提供分布式全文搜索能力 👇
 

@@ -2,7 +2,7 @@
 
 > 从预训练到RLHF，ChatGPT的完整技术栈
 
-![ChatGPT工作原理](./how-does-chatgpt-work.png)
+![ChatGPT工作原理](how-does-chatgpt-work.jpeg)
 
 ChatGPT的工作分为训练和回答两部分 👇
 
