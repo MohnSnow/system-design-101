@@ -1,9 +1,0 @@
-# @AI_GENERATED
-playwright
-python-dotenv
-hypothesis
-pytest
-pytest-asyncio
-pytest-playwright
-openai
-# @AI_GENERATED: end
