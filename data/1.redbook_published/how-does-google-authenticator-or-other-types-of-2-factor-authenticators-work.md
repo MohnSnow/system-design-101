@@ -2,7 +2,7 @@
 
 > 每30秒生成一个6位数密码，安全又方便
 
-![Google Authenticator](./how-does-google-authenticator-or-other-types-of-2-factor-authenticators-work.png)
+![Google Authenticator](how-does-google-authenticator-or-other-types-of-2-factor-authenticators-work.jpg)
 
 Google两步验证的完整工作流程 👇
 
